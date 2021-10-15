@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\bin\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.exe
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\bin\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\bin\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\bin\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\bin\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\bin\Debug\net5.0\ref\S02-Ex04_DoctorsWaitingRoom.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\bin\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\obj\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\obj\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\obj\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\obj\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\obj\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\obj\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\obj\Debug\net5.0\ref\S02-Ex04_DoctorsWaitingRoom.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\obj\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex04_DoctorsWaitingRoom\obj\Debug\net5.0\S02-Ex04_DoctorsWaitingRoom.genruntimeconfig.cache

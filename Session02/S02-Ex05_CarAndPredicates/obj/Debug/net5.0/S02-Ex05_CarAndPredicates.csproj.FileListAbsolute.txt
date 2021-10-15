@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\bin\Debug\net5.0\S02-Ex05_CarAndPredicates.exe
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\bin\Debug\net5.0\S02-Ex05_CarAndPredicates.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\bin\Debug\net5.0\S02-Ex05_CarAndPredicates.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\bin\Debug\net5.0\S02-Ex05_CarAndPredicates.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\bin\Debug\net5.0\S02-Ex05_CarAndPredicates.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\bin\Debug\net5.0\ref\S02-Ex05_CarAndPredicates.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\bin\Debug\net5.0\S02-Ex05_CarAndPredicates.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\obj\Debug\net5.0\S02-Ex05_CarAndPredicates.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\obj\Debug\net5.0\S02-Ex05_CarAndPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\obj\Debug\net5.0\S02-Ex05_CarAndPredicates.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\obj\Debug\net5.0\S02-Ex05_CarAndPredicates.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\obj\Debug\net5.0\S02-Ex05_CarAndPredicates.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\obj\Debug\net5.0\S02-Ex05_CarAndPredicates.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\obj\Debug\net5.0\ref\S02-Ex05_CarAndPredicates.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\obj\Debug\net5.0\S02-Ex05_CarAndPredicates.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex05_CarAndPredicates\obj\Debug\net5.0\S02-Ex05_CarAndPredicates.genruntimeconfig.cache
