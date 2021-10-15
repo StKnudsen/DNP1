@@ -8,6 +8,6 @@ Note also that the following
     </Target>
 
 have been added to S05-Ex02_AuthWithTailwind.csproj
-you might have to open folder in file explorer to see this file!
+(In explorer menu) Solution -> File System
 
 This will rebuild the css file with only the classes needed from tailwind!
