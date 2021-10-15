@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\obj\Debug\net5.0\S01-Ex07_ABBA.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\obj\Debug\net5.0\S01-Ex07_ABBA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\obj\Debug\net5.0\S01-Ex07_ABBA.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\obj\Debug\net5.0\S01-Ex07_ABBA.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\obj\Debug\net5.0\S01-Ex07_ABBA.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\bin\Debug\net5.0\S01-Ex07_ABBA.exe
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\bin\Debug\net5.0\S01-Ex07_ABBA.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\bin\Debug\net5.0\S01-Ex07_ABBA.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\bin\Debug\net5.0\S01-Ex07_ABBA.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\bin\Debug\net5.0\S01-Ex07_ABBA.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\bin\Debug\net5.0\ref\S01-Ex07_ABBA.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\bin\Debug\net5.0\S01-Ex07_ABBA.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\obj\Debug\net5.0\S01-Ex07_ABBA.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\obj\Debug\net5.0\ref\S01-Ex07_ABBA.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\obj\Debug\net5.0\S01-Ex07_ABBA.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex07_ABBA\obj\Debug\net5.0\S01-Ex07_ABBA.genruntimeconfig.cache

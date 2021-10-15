@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\bin\Debug\net5.0\S01-Ex02_Structure.exe
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\bin\Debug\net5.0\S01-Ex02_Structure.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\bin\Debug\net5.0\S01-Ex02_Structure.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\bin\Debug\net5.0\S01-Ex02_Structure.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\bin\Debug\net5.0\S01-Ex02_Structure.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\bin\Debug\net5.0\ref\S01-Ex02_Structure.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\bin\Debug\net5.0\S01-Ex02_Structure.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\obj\Debug\net5.0\S01-Ex02_Structure.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\obj\Debug\net5.0\S01-Ex02_Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\obj\Debug\net5.0\S01-Ex02_Structure.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\obj\Debug\net5.0\S01-Ex02_Structure.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\obj\Debug\net5.0\S01-Ex02_Structure.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\obj\Debug\net5.0\S01-Ex02_Structure.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\obj\Debug\net5.0\ref\S01-Ex02_Structure.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\obj\Debug\net5.0\S01-Ex02_Structure.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex02_Structure\obj\Debug\net5.0\S01-Ex02_Structure.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+@import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
+
+p + p {
+    text-indent: 2rem;
+}
+
+body {
+    background: rgb(250,226,234);
+    background: linear-gradient(165deg, rgba(250,226,234,0.05330357142857145) 17%, rgba(242,172,172,0.06758928571428569) 79%, rgba(255,0,0,0.1) 100%);
+    background-attachment: fixed;
+}

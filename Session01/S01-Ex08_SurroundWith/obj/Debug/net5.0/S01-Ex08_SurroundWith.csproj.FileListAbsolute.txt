@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\bin\Debug\net5.0\S01-Ex08_SurroundWith.exe
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\bin\Debug\net5.0\S01-Ex08_SurroundWith.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\bin\Debug\net5.0\S01-Ex08_SurroundWith.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\bin\Debug\net5.0\S01-Ex08_SurroundWith.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\bin\Debug\net5.0\S01-Ex08_SurroundWith.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\bin\Debug\net5.0\ref\S01-Ex08_SurroundWith.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\bin\Debug\net5.0\S01-Ex08_SurroundWith.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\obj\Debug\net5.0\S01-Ex08_SurroundWith.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\obj\Debug\net5.0\S01-Ex08_SurroundWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\obj\Debug\net5.0\S01-Ex08_SurroundWith.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\obj\Debug\net5.0\S01-Ex08_SurroundWith.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\obj\Debug\net5.0\S01-Ex08_SurroundWith.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\obj\Debug\net5.0\S01-Ex08_SurroundWith.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\obj\Debug\net5.0\ref\S01-Ex08_SurroundWith.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\obj\Debug\net5.0\S01-Ex08_SurroundWith.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex08_SurroundWith\obj\Debug\net5.0\S01-Ex08_SurroundWith.genruntimeconfig.cache

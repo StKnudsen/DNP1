@@ -1,0 +1,30 @@
+﻿@using S05_Ex02_AuthWithTailwind.Models
+<!-- Full width 1 column text block -->
+<div class="mx-4 mt-12">
+
+    <!-- title -->
+    <h2 class="text-3xl text-gray-900">
+        @Article.Title
+    </h2>
+
+    <!-- content, space between paragraphs is in css/app.css the indentation is in css/site.css -->
+    <div class="mt-6 text-gray-800">
+        @foreach (var paragraph in Article.Content)
+        {
+            <p>
+                @paragraph
+            </p>
+        }
+    </div>
+
+</div>
+
+
+@code {
+
+    [Parameter]
+    public Article Article { get; set; }
+
+        @*[Parameter]
+    public string Content { get; set; }*@
+}

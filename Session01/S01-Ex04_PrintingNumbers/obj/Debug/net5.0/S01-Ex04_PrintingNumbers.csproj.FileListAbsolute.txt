@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\bin\Debug\net5.0\S01-Ex04_PrintingNumbers.exe
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\bin\Debug\net5.0\S01-Ex04_PrintingNumbers.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\bin\Debug\net5.0\S01-Ex04_PrintingNumbers.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\bin\Debug\net5.0\S01-Ex04_PrintingNumbers.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\bin\Debug\net5.0\S01-Ex04_PrintingNumbers.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\bin\Debug\net5.0\ref\S01-Ex04_PrintingNumbers.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\bin\Debug\net5.0\S01-Ex04_PrintingNumbers.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\obj\Debug\net5.0\S01-Ex04_PrintingNumbers.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\obj\Debug\net5.0\S01-Ex04_PrintingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\obj\Debug\net5.0\S01-Ex04_PrintingNumbers.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\obj\Debug\net5.0\S01-Ex04_PrintingNumbers.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\obj\Debug\net5.0\S01-Ex04_PrintingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\obj\Debug\net5.0\S01-Ex04_PrintingNumbers.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\obj\Debug\net5.0\ref\S01-Ex04_PrintingNumbers.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\obj\Debug\net5.0\S01-Ex04_PrintingNumbers.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex04_PrintingNumbers\obj\Debug\net5.0\S01-Ex04_PrintingNumbers.genruntimeconfig.cache

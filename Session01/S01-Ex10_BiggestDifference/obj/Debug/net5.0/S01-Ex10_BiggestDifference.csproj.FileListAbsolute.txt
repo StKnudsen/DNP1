@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\bin\Debug\net5.0\S01-Ex10_BiggestDifference.exe
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\bin\Debug\net5.0\S01-Ex10_BiggestDifference.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\bin\Debug\net5.0\S01-Ex10_BiggestDifference.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\bin\Debug\net5.0\S01-Ex10_BiggestDifference.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\bin\Debug\net5.0\S01-Ex10_BiggestDifference.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\bin\Debug\net5.0\ref\S01-Ex10_BiggestDifference.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\bin\Debug\net5.0\S01-Ex10_BiggestDifference.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\obj\Debug\net5.0\S01-Ex10_BiggestDifference.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\obj\Debug\net5.0\S01-Ex10_BiggestDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\obj\Debug\net5.0\S01-Ex10_BiggestDifference.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\obj\Debug\net5.0\S01-Ex10_BiggestDifference.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\obj\Debug\net5.0\S01-Ex10_BiggestDifference.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\obj\Debug\net5.0\S01-Ex10_BiggestDifference.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\obj\Debug\net5.0\ref\S01-Ex10_BiggestDifference.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\obj\Debug\net5.0\S01-Ex10_BiggestDifference.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex10_BiggestDifference\obj\Debug\net5.0\S01-Ex10_BiggestDifference.genruntimeconfig.cache

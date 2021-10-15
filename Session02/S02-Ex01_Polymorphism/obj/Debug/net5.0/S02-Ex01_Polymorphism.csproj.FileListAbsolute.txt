@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\bin\Debug\net5.0\S02-Ex01_Polymorphism.exe
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\bin\Debug\net5.0\S02-Ex01_Polymorphism.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\bin\Debug\net5.0\S02-Ex01_Polymorphism.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\bin\Debug\net5.0\S02-Ex01_Polymorphism.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\bin\Debug\net5.0\S02-Ex01_Polymorphism.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\bin\Debug\net5.0\ref\S02-Ex01_Polymorphism.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\bin\Debug\net5.0\S02-Ex01_Polymorphism.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\obj\Debug\net5.0\S02-Ex01_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\obj\Debug\net5.0\S02-Ex01_Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\obj\Debug\net5.0\S02-Ex01_Polymorphism.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\obj\Debug\net5.0\S02-Ex01_Polymorphism.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\obj\Debug\net5.0\S02-Ex01_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\obj\Debug\net5.0\S02-Ex01_Polymorphism.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\obj\Debug\net5.0\ref\S02-Ex01_Polymorphism.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\obj\Debug\net5.0\S02-Ex01_Polymorphism.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex01_Polymorphism\obj\Debug\net5.0\S02-Ex01_Polymorphism.genruntimeconfig.cache

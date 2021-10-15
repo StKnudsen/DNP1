@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\bin\Debug\net5.0\S01-Ex05_MathNamespace.exe
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\bin\Debug\net5.0\S01-Ex05_MathNamespace.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\bin\Debug\net5.0\S01-Ex05_MathNamespace.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\bin\Debug\net5.0\S01-Ex05_MathNamespace.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\bin\Debug\net5.0\S01-Ex05_MathNamespace.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\bin\Debug\net5.0\ref\S01-Ex05_MathNamespace.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\bin\Debug\net5.0\S01-Ex05_MathNamespace.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\obj\Debug\net5.0\S01-Ex05_MathNamespace.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\obj\Debug\net5.0\S01-Ex05_MathNamespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\obj\Debug\net5.0\S01-Ex05_MathNamespace.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\obj\Debug\net5.0\S01-Ex05_MathNamespace.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\obj\Debug\net5.0\S01-Ex05_MathNamespace.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\obj\Debug\net5.0\S01-Ex05_MathNamespace.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\obj\Debug\net5.0\ref\S01-Ex05_MathNamespace.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\obj\Debug\net5.0\S01-Ex05_MathNamespace.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex05_MathNamespace\obj\Debug\net5.0\S01-Ex05_MathNamespace.genruntimeconfig.cache

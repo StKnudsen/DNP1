@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\bin\Debug\net5.0\S01-Ex09_Substring.exe
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\bin\Debug\net5.0\S01-Ex09_Substring.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\bin\Debug\net5.0\S01-Ex09_Substring.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\bin\Debug\net5.0\S01-Ex09_Substring.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\bin\Debug\net5.0\S01-Ex09_Substring.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\bin\Debug\net5.0\ref\S01-Ex09_Substring.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\bin\Debug\net5.0\S01-Ex09_Substring.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\obj\Debug\net5.0\S01-Ex09_Substring.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\obj\Debug\net5.0\S01-Ex09_Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\obj\Debug\net5.0\S01-Ex09_Substring.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\obj\Debug\net5.0\S01-Ex09_Substring.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\obj\Debug\net5.0\S01-Ex09_Substring.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\obj\Debug\net5.0\S01-Ex09_Substring.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\obj\Debug\net5.0\ref\S01-Ex09_Substring.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\obj\Debug\net5.0\S01-Ex09_Substring.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex09_Substring\obj\Debug\net5.0\S01-Ex09_Substring.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\bin\Debug\net5.0\S01-Ex06_MoreMathWithInput.exe
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\bin\Debug\net5.0\S01-Ex06_MoreMathWithInput.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\bin\Debug\net5.0\S01-Ex06_MoreMathWithInput.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\bin\Debug\net5.0\S01-Ex06_MoreMathWithInput.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\bin\Debug\net5.0\S01-Ex06_MoreMathWithInput.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\bin\Debug\net5.0\ref\S01-Ex06_MoreMathWithInput.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\bin\Debug\net5.0\S01-Ex06_MoreMathWithInput.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\obj\Debug\net5.0\S01-Ex06_MoreMathWithInput.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\obj\Debug\net5.0\S01-Ex06_MoreMathWithInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\obj\Debug\net5.0\S01-Ex06_MoreMathWithInput.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\obj\Debug\net5.0\S01-Ex06_MoreMathWithInput.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\obj\Debug\net5.0\S01-Ex06_MoreMathWithInput.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\obj\Debug\net5.0\S01-Ex06_MoreMathWithInput.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\obj\Debug\net5.0\ref\S01-Ex06_MoreMathWithInput.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\obj\Debug\net5.0\S01-Ex06_MoreMathWithInput.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex06_MoreMathWithInput\obj\Debug\net5.0\S01-Ex06_MoreMathWithInput.genruntimeconfig.cache

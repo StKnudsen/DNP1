@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "S01_Ex05_MathNamespace/1.0.0": {
+        "runtime": {
+          "S01_Ex05_MathNamespace.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S01_Ex05_MathNamespace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

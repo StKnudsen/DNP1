@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\bin\Debug\net5.0\S01-Ex11_ArrayClumps.exe
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\bin\Debug\net5.0\S01-Ex11_ArrayClumps.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\bin\Debug\net5.0\S01-Ex11_ArrayClumps.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\bin\Debug\net5.0\S01-Ex11_ArrayClumps.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\bin\Debug\net5.0\S01-Ex11_ArrayClumps.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\bin\Debug\net5.0\ref\S01-Ex11_ArrayClumps.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\bin\Debug\net5.0\S01-Ex11_ArrayClumps.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\obj\Debug\net5.0\S01-Ex11_ArrayClumps.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\obj\Debug\net5.0\S01-Ex11_ArrayClumps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\obj\Debug\net5.0\S01-Ex11_ArrayClumps.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\obj\Debug\net5.0\S01-Ex11_ArrayClumps.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\obj\Debug\net5.0\S01-Ex11_ArrayClumps.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\obj\Debug\net5.0\S01-Ex11_ArrayClumps.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\obj\Debug\net5.0\ref\S01-Ex11_ArrayClumps.dll
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\obj\Debug\net5.0\S01-Ex11_ArrayClumps.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session01\S01-Ex11_ArrayClumps\obj\Debug\net5.0\S01-Ex11_ArrayClumps.genruntimeconfig.cache
