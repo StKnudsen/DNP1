@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\bin\Debug\net5.0\S03-Ex05a_ChatServer.exe
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\bin\Debug\net5.0\S03-Ex05a_ChatServer.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\bin\Debug\net5.0\S03-Ex05a_ChatServer.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\bin\Debug\net5.0\S03-Ex05a_ChatServer.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\bin\Debug\net5.0\S03-Ex05a_ChatServer.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\bin\Debug\net5.0\ref\S03-Ex05a_ChatServer.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\bin\Debug\net5.0\S03-Ex05a_ChatServer.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\obj\Debug\net5.0\S03-Ex05a_ChatServer.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\obj\Debug\net5.0\S03-Ex05a_ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\obj\Debug\net5.0\S03-Ex05a_ChatServer.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\obj\Debug\net5.0\S03-Ex05a_ChatServer.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\obj\Debug\net5.0\S03-Ex05a_ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\obj\Debug\net5.0\S03-Ex05a_ChatServer.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\obj\Debug\net5.0\ref\S03-Ex05a_ChatServer.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\obj\Debug\net5.0\S03-Ex05a_ChatServer.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex05a_ChatServer\obj\Debug\net5.0\S03-Ex05a_ChatServer.genruntimeconfig.cache
