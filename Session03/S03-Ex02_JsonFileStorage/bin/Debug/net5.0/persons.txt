@@ -1,0 +1,1 @@
+[{"FirstName":"Tina","LastName":"Hadberg","Age":20,"Height":170,"IsMarried":false,"Sex":"F","Hobbies":["Otto","Strikke"]},{"FirstName":"Line","LastName":"Guld","Age":30,"Height":160,"IsMarried":false,"Sex":"F","Hobbies":["Planter"]},{"FirstName":"Stefan","LastName":"Knudsen","Age":27,"Height":180,"IsMarried":false,"Sex":"M","Hobbies":["Bj\u00F8rn","Astrid"]}]

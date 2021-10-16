@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\bin\Debug\net5.0\S03-Ex03a_EchoServer.exe
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\bin\Debug\net5.0\S03-Ex03a_EchoServer.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\bin\Debug\net5.0\S03-Ex03a_EchoServer.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\bin\Debug\net5.0\S03-Ex03a_EchoServer.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\bin\Debug\net5.0\S03-Ex03a_EchoServer.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\bin\Debug\net5.0\ref\S03-Ex03a_EchoServer.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\bin\Debug\net5.0\S03-Ex03a_EchoServer.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\obj\Debug\net5.0\S03-Ex03a_EchoServer.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\obj\Debug\net5.0\S03-Ex03a_EchoServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\obj\Debug\net5.0\S03-Ex03a_EchoServer.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\obj\Debug\net5.0\S03-Ex03a_EchoServer.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\obj\Debug\net5.0\S03-Ex03a_EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\obj\Debug\net5.0\S03-Ex03a_EchoServer.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\obj\Debug\net5.0\ref\S03-Ex03a_EchoServer.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\obj\Debug\net5.0\S03-Ex03a_EchoServer.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03a_EchoServer\obj\Debug\net5.0\S03-Ex03a_EchoServer.genruntimeconfig.cache

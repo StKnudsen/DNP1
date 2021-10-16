@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\bin\Debug\net5.0\S03-Ex02_JsonFileStorage.exe
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\bin\Debug\net5.0\S03-Ex02_JsonFileStorage.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\bin\Debug\net5.0\S03-Ex02_JsonFileStorage.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\bin\Debug\net5.0\S03-Ex02_JsonFileStorage.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\bin\Debug\net5.0\S03-Ex02_JsonFileStorage.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\bin\Debug\net5.0\ref\S03-Ex02_JsonFileStorage.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\bin\Debug\net5.0\S03-Ex02_JsonFileStorage.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\obj\Debug\net5.0\S03-Ex02_JsonFileStorage.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\obj\Debug\net5.0\S03-Ex02_JsonFileStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\obj\Debug\net5.0\S03-Ex02_JsonFileStorage.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\obj\Debug\net5.0\S03-Ex02_JsonFileStorage.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\obj\Debug\net5.0\S03-Ex02_JsonFileStorage.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\obj\Debug\net5.0\S03-Ex02_JsonFileStorage.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\obj\Debug\net5.0\ref\S03-Ex02_JsonFileStorage.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\obj\Debug\net5.0\S03-Ex02_JsonFileStorage.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex02_JsonFileStorage\obj\Debug\net5.0\S03-Ex02_JsonFileStorage.genruntimeconfig.cache

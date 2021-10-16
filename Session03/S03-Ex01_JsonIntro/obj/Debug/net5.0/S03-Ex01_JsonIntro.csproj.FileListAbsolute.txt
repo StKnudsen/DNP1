@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\bin\Debug\net5.0\S03-Ex01_JsonIntro.exe
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\bin\Debug\net5.0\S03-Ex01_JsonIntro.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\bin\Debug\net5.0\S03-Ex01_JsonIntro.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\bin\Debug\net5.0\S03-Ex01_JsonIntro.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\bin\Debug\net5.0\S03-Ex01_JsonIntro.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\bin\Debug\net5.0\ref\S03-Ex01_JsonIntro.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\bin\Debug\net5.0\S03-Ex01_JsonIntro.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\obj\Debug\net5.0\S03-Ex01_JsonIntro.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\obj\Debug\net5.0\S03-Ex01_JsonIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\obj\Debug\net5.0\S03-Ex01_JsonIntro.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\obj\Debug\net5.0\S03-Ex01_JsonIntro.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\obj\Debug\net5.0\S03-Ex01_JsonIntro.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\obj\Debug\net5.0\S03-Ex01_JsonIntro.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\obj\Debug\net5.0\ref\S03-Ex01_JsonIntro.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\obj\Debug\net5.0\S03-Ex01_JsonIntro.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex01_JsonIntro\obj\Debug\net5.0\S03-Ex01_JsonIntro.genruntimeconfig.cache

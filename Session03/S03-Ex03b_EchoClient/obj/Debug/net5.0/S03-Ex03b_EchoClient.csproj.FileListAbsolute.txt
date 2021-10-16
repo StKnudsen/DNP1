@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\bin\Debug\net5.0\S03-Ex03b_EchoClient.exe
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\bin\Debug\net5.0\S03-Ex03b_EchoClient.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\bin\Debug\net5.0\S03-Ex03b_EchoClient.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\bin\Debug\net5.0\S03-Ex03b_EchoClient.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\bin\Debug\net5.0\S03-Ex03b_EchoClient.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\bin\Debug\net5.0\ref\S03-Ex03b_EchoClient.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\bin\Debug\net5.0\S03-Ex03b_EchoClient.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\obj\Debug\net5.0\S03-Ex03b_EchoClient.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\obj\Debug\net5.0\S03-Ex03b_EchoClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\obj\Debug\net5.0\S03-Ex03b_EchoClient.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\obj\Debug\net5.0\S03-Ex03b_EchoClient.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\obj\Debug\net5.0\S03-Ex03b_EchoClient.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\obj\Debug\net5.0\S03-Ex03b_EchoClient.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\obj\Debug\net5.0\ref\S03-Ex03b_EchoClient.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\obj\Debug\net5.0\S03-Ex03b_EchoClient.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex03b_EchoClient\obj\Debug\net5.0\S03-Ex03b_EchoClient.genruntimeconfig.cache
