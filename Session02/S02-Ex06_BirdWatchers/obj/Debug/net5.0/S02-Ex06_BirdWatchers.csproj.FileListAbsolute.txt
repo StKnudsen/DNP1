@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\bin\Debug\net5.0\S02-Ex06_BirdWatchers.exe
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\bin\Debug\net5.0\S02-Ex06_BirdWatchers.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\bin\Debug\net5.0\S02-Ex06_BirdWatchers.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\bin\Debug\net5.0\S02-Ex06_BirdWatchers.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\bin\Debug\net5.0\S02-Ex06_BirdWatchers.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\bin\Debug\net5.0\ref\S02-Ex06_BirdWatchers.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\bin\Debug\net5.0\S02-Ex06_BirdWatchers.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\obj\Debug\net5.0\S02-Ex06_BirdWatchers.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\obj\Debug\net5.0\S02-Ex06_BirdWatchers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\obj\Debug\net5.0\S02-Ex06_BirdWatchers.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\obj\Debug\net5.0\S02-Ex06_BirdWatchers.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\obj\Debug\net5.0\S02-Ex06_BirdWatchers.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\obj\Debug\net5.0\S02-Ex06_BirdWatchers.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\obj\Debug\net5.0\ref\S02-Ex06_BirdWatchers.dll
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\obj\Debug\net5.0\S02-Ex06_BirdWatchers.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session02\S02-Ex06_BirdWatchers\obj\Debug\net5.0\S02-Ex06_BirdWatchers.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "S02-Ex06_BirdWatchers/1.0.0": {
+        "runtime": {
+          "S02-Ex06_BirdWatchers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S02-Ex06_BirdWatchers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
