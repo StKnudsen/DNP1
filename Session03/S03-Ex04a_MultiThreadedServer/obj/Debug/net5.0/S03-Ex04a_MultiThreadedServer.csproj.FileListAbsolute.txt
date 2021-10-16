@@ -1,0 +1,16 @@
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\bin\Debug\net5.0\S03-Ex04a_MultiThreadedServer.exe
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\bin\Debug\net5.0\S03-Ex04a_MultiThreadedServer.deps.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\bin\Debug\net5.0\S03-Ex04a_MultiThreadedServer.runtimeconfig.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\bin\Debug\net5.0\S03-Ex04a_MultiThreadedServer.runtimeconfig.dev.json
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\bin\Debug\net5.0\S03-Ex04a_MultiThreadedServer.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\bin\Debug\net5.0\ref\S03-Ex04a_MultiThreadedServer.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\bin\Debug\net5.0\S03-Ex04a_MultiThreadedServer.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\obj\Debug\net5.0\S03-Ex04a_MultiThreadedServer.csproj.AssemblyReference.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\obj\Debug\net5.0\S03-Ex04a_MultiThreadedServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\obj\Debug\net5.0\S03-Ex04a_MultiThreadedServer.AssemblyInfoInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\obj\Debug\net5.0\S03-Ex04a_MultiThreadedServer.AssemblyInfo.cs
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\obj\Debug\net5.0\S03-Ex04a_MultiThreadedServer.csproj.CoreCompileInputs.cache
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\obj\Debug\net5.0\S03-Ex04a_MultiThreadedServer.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\obj\Debug\net5.0\ref\S03-Ex04a_MultiThreadedServer.dll
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\obj\Debug\net5.0\S03-Ex04a_MultiThreadedServer.pdb
+C:\Users\zteph\RiderProjects\DNP1\Session03\S03-Ex04a_MultiThreadedServer\obj\Debug\net5.0\S03-Ex04a_MultiThreadedServer.genruntimeconfig.cache
