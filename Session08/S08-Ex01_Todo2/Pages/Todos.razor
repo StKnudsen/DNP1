@@ -1,0 +1,160 @@
+﻿@page "/Todos"
+@using S08_Ex01_Todo2.Data
+@using S08_Ex01_Todo2.Models
+
+@inject NavigationManager NavigationManager
+@inject ITodosServices _todosServices
+
+<h1>Todo list</h1>
+
+<div class="input-group mb-3">
+    <div class="input-group-prepend">
+        <span class="input-group-text" id="basic-addon1">Filter by User Id:</span>
+    </div>
+    <input 
+        type="number" 
+        class="form-control" 
+        @oninput="@((arg) => FilterByUserId(arg))"
+    />
+</div>
+<div class="input-group mb-3">
+    <div class="input-group-prepend">
+        <label class="input-group-text" for="inputGroupSelect01">Filter by completed status:</label>
+    </div>
+    <select 
+        class="custom-select selectpicker"
+        @onchange="@((arg) => FilterByCompletedStatus(arg))"
+        >
+        <option>Both</option>
+        <option>False</option>
+        <option>True</option>
+    </select>
+</div>
+
+@if (todosToShow == null)
+{
+    <p>
+        <em>Loading...</em>
+    </p>
+} 
+else if (!todosToShow.Any())
+{
+    <p>
+        <em>No Todo items exist. Please add some.</em>
+    </p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>User Id</th>
+            <th>Todo Id</th>
+            <th>Title</th>
+            <th>Completed?</th>
+            <th class="text-center">Action</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in todosToShow)
+        {
+            <tr>
+                <td>@item.UserId</td>
+                <td>@item.TodoId</td>
+                <td>@item.Title</td>
+                 <td class="text-center">
+                    <input 
+                        type="checkbox" 
+                        checked="@item.IsCompleted" 
+                        @onchange="@((arg) => CompletedChange(arg, item))"
+                        />
+                </td>
+                <td>
+                    <button 
+                        @onclick="@(() => RemoveTodo(item.TodoId))"
+                        class="btn btn-danger btn-sm"
+                    >
+                        <i class="oi oi-trash text-white"></i>
+                    </button>
+                    <button
+                        @onclick="@(() => Edit(item.TodoId))"
+                        class="btn btn-warning btn-sm">
+                        <i class="oi oi-pencil text-white"></i>
+                    </button>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+@code {
+    private IList<Todo> todosToShow;
+    private IList<Todo> allTodos;
+
+    private bool? filterByIsCompleted = null;
+    private int? filterById = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        allTodos = await _todosServices.GetTodosAsync();
+        todosToShow = allTodos;
+    }
+    
+    private void FilterByUserId(ChangeEventArgs changeEventArgs)
+    {
+        filterById = null;
+        
+        try
+        {
+            filterById = int.Parse(changeEventArgs.Value.ToString());
+        }
+        catch (Exception e) { }
+        
+        ExecuteFilter();
+    }
+    
+    private void FilterByCompletedStatus(ChangeEventArgs changeEventArgs)
+    {
+        filterByIsCompleted = null;
+
+        try
+        {
+            filterByIsCompleted = bool.Parse(changeEventArgs.Value.ToString());
+        }
+        catch (Exception e) { }
+
+        ExecuteFilter();
+    }
+    
+    private void ExecuteFilter()
+    {
+        todosToShow = allTodos.Where(t => 
+            (filterById != null && t.UserId == filterById || filterById == null) 
+            
+            
+            
+            &&
+            (filterByIsCompleted != null && t.IsCompleted == filterByIsCompleted || filterByIsCompleted == null)
+            ).ToList();
+    }
+    
+    private void Edit(int id)
+    {
+        NavigationManager.NavigateTo($"Edit/{id}");
+    }
+
+    private void RemoveTodo(int todoId)
+    {
+        Todo todoToRemove = allTodos.First(t => t.TodoId == todoId);
+        _todosServices.RemoveTodoAsync(todoId); // Remove from storage
+        allTodos.Remove(todoToRemove); // Update the todo list in view
+        todosToShow.Remove(todoToRemove); // Update the todo list in view
+    }
+    
+    private void CompletedChange(ChangeEventArgs evt, Todo todo)
+    {
+        todo.IsCompleted = (bool) evt.Value;
+       // _todosServices.UpdateAsync(todo);
+    }
+}

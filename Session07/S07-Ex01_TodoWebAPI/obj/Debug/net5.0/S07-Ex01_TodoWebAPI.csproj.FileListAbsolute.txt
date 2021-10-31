@@ -27,3 +27,4 @@ C:\Users\zteph\RiderProjects\DNP1\Session07\S07-Ex01_TodoWebAPI\obj\Debug\net5.0
 C:\Users\zteph\RiderProjects\DNP1\Session07\S07-Ex01_TodoWebAPI\obj\Debug\net5.0\ref\S07-Ex01_TodoWebAPI.dll
 C:\Users\zteph\RiderProjects\DNP1\Session07\S07-Ex01_TodoWebAPI\obj\Debug\net5.0\S07-Ex01_TodoWebAPI.pdb
 C:\Users\zteph\RiderProjects\DNP1\Session07\S07-Ex01_TodoWebAPI\obj\Debug\net5.0\S07-Ex01_TodoWebAPI.genruntimeconfig.cache
+C:\Users\zteph\RiderProjects\DNP1\Session07\S07-Ex01_TodoWebAPI\bin\Debug\net5.0\todos.json

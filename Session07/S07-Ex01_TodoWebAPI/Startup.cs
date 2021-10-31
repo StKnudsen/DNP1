@@ -31,7 +31,7 @@ namespace S07_Ex01_TodoWebAPI
             services.AddScoped<ITodoService, TodoService>();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo {Title = "S07_Ex01_TodoWebAPI", Version = "v1"});
+                c.SwaggerDoc("v1", new OpenApiInfo {Title = "S07_Ex01_TodoWebAPI", Version = "v42"});
             });
         }
 
